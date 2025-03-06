@@ -15,8 +15,8 @@ clang++ -std=c++20 -o main main.cpp
 
 <table>
   <tr>
-    <td><img src="result_1000_x_1000.jpg" alt="Path tracer output example" width="300"/></td>
-    <td><img src="result_1000_x_1000.jpg" alt="Path tracer output example" width="300"/></td>
-    <td><img src="result_1000_x_1000.jpg" alt="Path tracer output example" width="300"/></td>
+    <td><img src="assets/1.jpg" alt="Path tracer output example" width="300"/></td>
+    <td><img src="assets/2.jpg" alt="Path tracer output example" width="300"/></td>
+    <td><img src="assets/2.jpg" alt="Path tracer output example" width="300"/></td>
   </tr>
 </table>
