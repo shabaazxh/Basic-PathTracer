@@ -13,4 +13,10 @@ clang++ -std=c++20 -o main main.cpp
 ./main > output.ppm
 ```
 
-![Path tracer output example](result_1000_x_1000.jpg)
+<table>
+  <tr>
+    <td><img src="result_1000_x_1000.jpg" alt="Path tracer output example" width="300"/></td>
+    <td><img src="result_1000_x_1000.jpg" alt="Path tracer output example" width="300"/></td>
+    <td><img src="result_1000_x_1000.jpg" alt="Path tracer output example" width="300"/></td>
+  </tr>
+</table>
