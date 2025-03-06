@@ -10,6 +10,7 @@ To build and run the path tracer, follow these steps:
 ### 1. Build the Project
 ```bash
 clang++ -std=c++20 -o main main.cpp
-./main > output.ppm```
+./main > output.ppm
+```
 
 ![Path tracer output example](result_1000_x_1000.jpg)
