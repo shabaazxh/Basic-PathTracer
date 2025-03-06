@@ -194,9 +194,9 @@ int main() {
     std::vector<Sphere> scene;
     scene.push_back(Sphere(Vec3(0, -1001, -5), 1000, Vec3(0.8, 0.8, 0.8), Vec3(0, 0, 0))); // floor
     //scene.push_back(Sphere(Vec3(0, 1005, -5), 1000, Vec3(0.8, 0.8, 0.8), Vec3(1,1,1), true)); // ceiling
-    scene.push_back(Sphere(Vec3(0, 0, -1005), 1000, Vec3(0.8, 0.8, 0.8), Vec3(0, 0, 0), false, false)); // back wall
+    //scene.push_back(Sphere(Vec3(0, 0, -1005), 1000, Vec3(0.8, 0.8, 0.8), Vec3(0, 0, 0), false, false)); // back wall
     //scene.push_back(Sphere(Vec3(-1004, 0, -5), 1000, Vec3(1.0, 0.2, 0.2), Vec3(0, 0, 0))); // left
-    scene.push_back(Sphere(Vec3(1004, 0, -5), 1000, Vec3(0.2, 1.0, 0.2), Vec3(0, 0, 0))); // right
+    //scene.push_back(Sphere(Vec3(1004, 0, -5), 1000, Vec3(0.2, 1.0, 0.2), Vec3(0, 0, 0))); // right
 
     //scene.push_back(Sphere(Vec3(0, 6, 0), 2.0, Vec3(1,1,1), Vec3(1,1,1)));
     
